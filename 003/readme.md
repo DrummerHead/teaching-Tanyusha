@@ -144,7 +144,7 @@ var cat = "lovely"
 var myCat = `My cat is quite ${cat}, don't you think`
 ```
 
-Notice that `myCat` is using this `\`` funky characters and the `${}` syntax for interpolation.
+Notice that `myCat` is using this ``` funky characters and the `${}` syntax for interpolation.
 
 Go and run that in the console and see what's inside `myCat`
 
