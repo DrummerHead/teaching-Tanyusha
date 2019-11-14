@@ -1,4 +1,4 @@
-# 
+# Math, randomness, configuring stuff
 
 On the previous episode we reached this state:
 
